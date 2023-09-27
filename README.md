@@ -1,4 +1,6 @@
-# Code samples for "Neural Networks and Deep Learning"
+# Reference code for my 2019 International Science Fair project
+
+## Original repo description:
 
 This repository contains code samples for my book on ["Neural Networks
 and Deep Learning"](http://neuralnetworksanddeeplearning.com).
